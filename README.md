@@ -1,5 +1,5 @@
 # RoomScheduler
-Room scheduler program with GUI written in Java.
+Room scheduler database program with GUI written in Java.
 
 
 Made in CMPSC 221: Object Oriented Programming in Java
